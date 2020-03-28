@@ -2,6 +2,9 @@
 
 A Typecho plugin for Google AMP / Baidu MIP
 
+## 修改情况
+- 增加了对[login]和[hide]标签的支持，不会再直接显示出来了。
+
 ## 总览
 
 这是款一键生成符合 Google AMP/Baidu MIP 标准页面的插件，开启后可以进一步优化谷歌和百度的搜索结果。
