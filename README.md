@@ -14,15 +14,6 @@ A Typecho plugin for Google AMP / Baidu MIP
 
 ------
 
-## 支持
-
-如果本插件帮到了你，不妨给点赞赏鼓励一下作者 ^-^
-
-<img width="150" height="150" src="https://raw.githubusercontent.com/holmesian/Typecho-AMP/dev/alipay.jpg">
-<img width="150" height="150" src="https://raw.githubusercontent.com/holmesian/Typecho-AMP/dev/wechat.jpg">
-
-------
-
 ## 功能
 
 - 生成符合 Google AMP/Baidu MIP 标准的 AMP/MIP 页面，并与标准页面建立关联。
@@ -108,6 +99,4 @@ AMP首页：
 
 
   [1]: https://holmesian.org/typecho-upgrade-AMP
-  [2]: https://github.com/typecho-fans/plugins/releases/download/plugins-A_to_C/AMP.zip
-  [3]: http://ziyuan.baidu.com/mip/index
-  [4]: https://www.ampproject.org/docs/reference/components/amp-list
+  [2]: https://github.com/chr233/Typecho-AMP/releases
